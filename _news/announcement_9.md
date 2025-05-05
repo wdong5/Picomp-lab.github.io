@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2022-09-01
+date: 2024-04-01
 inline: true
 related_posts: false
 ---
-
-One paper is accepted by ASPLOS'23.
+One paper was accepted by ICML'24.
