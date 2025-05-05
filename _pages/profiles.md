@@ -33,9 +33,11 @@ nav: true
 </div>  
 <br>
 
------------------------
+---
+
 **Ph.D. Students**
 <br>
+
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
         <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/Shouwei_gao_cunzhao.jpg' | relative_url }}" alt="" title="Shouwei Gao"/>
@@ -67,30 +69,25 @@ nav: true
 <br>
 <br clear="left"/>
 
------------------------
+---
+
 **Research Intern**
 
-* Shanlin Liu
-* Caichen Deng
+- Shanlin Liu
+- Caichen Deng
 
+---
 
------------------------
 **Alumni**
 
-* Meiyan Gao  First employment: Neocis Inc.
-
+- Meiyan Gao First employment: Neocis Inc.
 
 <div class="people">
 
 {% for y in page.roles %}
+
   <h2 class="roles">{{role}}</h2>
   {% bibliography -f papers -q @*[roles={{y}}]* %}
 {% endfor %}
 
 </div>
-
-
-
-
-
-

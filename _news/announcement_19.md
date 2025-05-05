@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr.Dong will serve as a TPC member of the IPDPS'25. 
+Dr.Dong will serve as a TPC member of the IPDPS'25.

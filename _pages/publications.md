@@ -6,7 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-
 <!-- ## 2023 -->
 
 - **TimeX++: Learning Time-Series Explanations with Information Bottleneck.**
@@ -24,7 +23,6 @@ nav_order: 5
   Shuangyan Yang, Mingjia Zhang, **Wenqian Dong** , and Dong Li;
   In the 28th International Conference on Architectural Support for Programming Languages and Operating Systems. ASPLOS 2023
 
-
 <!-- ## Before 2022 -->
 
 - **Fauce: Fast and Accurate Deep Ensembles with Uncertainty for Cardinality Estimation.**
@@ -36,7 +34,6 @@ nav_order: 5
 
   Zhen Xie, **Wenqian Dong**, Jie Liu, Ivy Peng, Yanbao Ma and Dong Li
   In ACM 35th International Conference on Supercomputing. ICS 2021
-  
 
 - **Tahoe: Tree Structure-Aware High Performance Inference Engine for Decision Tree Ensemble on GPU.**
 
@@ -53,9 +50,7 @@ nav_order: 5
   **Wenqian Dong**, Jie Liu, Zhen Xie and Dong Li;
   In the 31st ACM/IEEE International Conference for High Performance Computing. SC 2019
 
-- **Modeling Application Resilience in Large Scale Parallel Execution.**  
+- **Modeling Application Resilience in Large Scale Parallel Execution.**
 
   Kai Wu, **Wenqian Dong**, Qiang Guan, Nathan Debardeleben and Dong Li;
   In the 47th International Conference on Parallel Processing. ICPP 2018
-
-

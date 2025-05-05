@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr.Dong am invited to be a TPC of IEEE Cloud. 
+Dr.Dong am invited to be a TPC of IEEE Cloud.

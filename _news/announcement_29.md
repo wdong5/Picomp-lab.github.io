@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr.Dong am invited as a panelsit for DOE proposal review. 
+Dr.Dong am invited as a panelsit for DOE proposal review.

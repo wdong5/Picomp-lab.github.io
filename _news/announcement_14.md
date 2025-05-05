@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper "Framework for tracking metadata, lineage and model provenance in hybrid simulation-AI HPC exascale workflows" is accepted in CUG'25. 
+A paper "Framework for tracking metadata, lineage and model provenance in hybrid simulation-AI HPC exascale workflows" is accepted in CUG'25.
