@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper "Auto-HPCnet: An Automatic Framework to Build Neural Network-based Surrogate Models for HPC Applications" is accepted in HPDC'23. 
+A paper "Auto-HPCnet: An Automatic Framework to Build Neural Network-based Surrogate Models for HPC Applications" is accepted in HPDC'23.

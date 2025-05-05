@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper "TimeX++: Learning Time-Series Explanations with Information Bottleneck" is accepted in ICML'24. 
+A paper "TimeX++: Learning Time-Series Explanations with Information Bottleneck" is accepted in ICML'24.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr.Dong will serve as a Student Program Co-Chair of the International Conference on Parallel Processing (ICPP'24). 
+Dr.Dong will serve as a Student Program Co-Chair of the International Conference on Parallel Processing (ICPP'24).
