@@ -8,13 +8,10 @@ profile:
   align: right
   image: eecs-students-kelley.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>CASE 212B </p>
-    <p>11200 SW 8th St</p>
-    <p>Miami, Florida</p>
+  more_info: 
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
