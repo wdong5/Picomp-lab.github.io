@@ -24,11 +24,11 @@ nav: true
     <div class="col-sm-4">
         <b>Wenqian Dong</b> <br>
         Ph.D. <br><br>
-        Email: wenqian.dong <at> oregonstate.edu <br>
+        Email: wenqian.dong AT oregonstate.edu <br>
         <a href="https://scholar.google.com/citations?user=6qIVck4AAAAJ&hl=en">Google scholar</a>
     </div>
     <div class="col-sm-5">
-       Wenqian Dong is an assistant professor in the School of EECS at <a href="https://engineering.oregonstate.edu/EECS" style="color:#538480;"> Oregon State University </a>. She studied her Ph.D. in Computer Science and Engineering at the University of California, Merced. Her research interests include high-performance computing (HPC), scientific machine learning, automatic performance tuning, and system-level optimization for large-scale ML models. Her work has been published in multiple top-tier conferences, including SC, HPDC, ASPLOS, ICS, EuroSys, VLDB, etc. Also, she is the recipient of the IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in High-Performance Computing (2023). She worked in the High-Performance Computing Group at Pacific Northwest National Laboratory (PNNL) from 2019 and 2020, and AI Labs at Hewlett Packard Enterprise (HPE) in 2021. Her work at PNNL was highlighted at <a href="https://www.newswise.com/doescience/pnnl-researchers-speed-power-grid-simulations-using-ai/?article_id=741430"> DOE News wise</a> and <a href="https://www.pnnl.gov/news-media/pnnl-researchers-speed-power-grid-simulations-using-ai#:~:text=Share%3A,the%20blink%20of%20an%20eye">PNNL website </a>.
+       Wenqian Dong is an assistant professor in the School of EECS at <a href="https://engineering.oregonstate.edu/EECS" style="color:#538480;"> Oregon State University </a>. She studied her Ph.D. in Computer Science and Engineering at the University of California, Merced. Her research interests include high-performance computing (HPC), scientific machine learning, automatic performance tuning, and system-level optimization for large-scale ML models. Her work has been published in multiple top-tier conferences, including SC, HPDC, ASPLOS, ICS, EuroSys, VLDB, etc. Also, she is the recipient of the IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in High-Performance Computing (2023). She worked in the High-Performance Computing Group at Pacific Northwest National Laboratory (PNNL) from 2019 and 2020, and AI Labs at Hewlett Packard Enterprise (HPE) in 2021. Her work at PNNL was highlighted at Her work at PNNL was highlighted at DOE News wise and PNNL website.
     </div>  
 </div>  
 <br>
