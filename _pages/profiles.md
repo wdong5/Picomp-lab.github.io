@@ -28,7 +28,7 @@ nav: true
         <a href="https://scholar.google.com/citations?user=6qIVck4AAAAJ&hl=en">Google scholar</a>
     </div>
     <div class="col-sm-5">
-       Wenqian Dong is an assistant professor in the School of EECS at <a href="https://engineering.oregonstate.edu/EECS" style="color:#538480;"> Oregon State University </a>. She studied her Ph.D. in Computer Science and Engineering at the University of California, Merced. Her research interests include high-performance computing (HPC), scientific machine learning, automatic performance tuning, and system-level optimization for large-scale ML models. Her work has been published in multiple top-tier conferences, including SC, HPDC, ASPLOS, ICS, EuroSys, VLDB, etc. Also, she is the recipient of the IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in High-Performance Computing (2023). She worked in the High-Performance Computing Group at Pacific Northwest National Laboratory (PNNL) from 2019 and 2020, and AI Labs at Hewlett Packard Enterprise (HPE) in 2021. Her work at PNNL was highlighted at Her work at PNNL was highlighted at DOE News wise and PNNL website.
+       Wenqian Dong is an assistant professor in the School of EECS at <a href="https://engineering.oregonstate.edu/EECS" style="color:#538480;"> Oregon State University </a>. She is the director of Picom Lab.
     </div>  
 </div>  
 <br>
