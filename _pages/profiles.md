@@ -24,7 +24,7 @@ nav: true
     <div class="col-sm-4">
         <b>Wenqian Dong</b> <br>
         Ph.D. <br><br>
-        Email: wenqian.dong AT oregonstate.edu <br>
+        Email: wenqian.dong@oregonstate.edu <br>
         <a href="https://scholar.google.com/citations?user=6qIVck4AAAAJ&hl=en">Google scholar</a>
     </div>
     <div class="col-sm-5">
