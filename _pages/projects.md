@@ -19,3 +19,25 @@ SciML is undergoing a paradigm shift with the advent of foundation models like A
         <figcaption>_Emerging Scientific Foundation Models over Time_</figcaption>
 </figure>
 
+Projects: 
+
+
+**System Optimization for Foundational AI Models**
+
+
+<figure>
+        <img src="/assets/images/scatter.png" alt="Trends in Foundation Models" />
+        <figcaption>_Emerging Scientific Foundation Models over Time_</figcaption>
+</figure>
+
+Projects: 
+
+**System Optimization for Foundational AI Models**
+
+
+<figure>
+        <img src="/assets/images/scatter.png" alt="Trends in Foundation Models" />
+        <figcaption>_Emerging Scientific Foundation Models over Time_</figcaption>
+</figure>
+
+Projects: 
