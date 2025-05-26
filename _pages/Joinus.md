@@ -35,7 +35,7 @@ nav_order: 6
     <li>Detailed CV</li>
     <li>Academic transcripts (all in your acedemic trajctory)</li>
     <li>GRE and TOEFL/IELTS scores (if applicable)</li>
-    <li>Any other documents you'd like to send (e.g., publications, awards, your pets, photos of your cooked dishes)</li>
+    <li>Any other documents you'd like to include (e.g., publications, awards, even fun extras like pet photos or pictures of your cooking)</li>
   </ul>
  
 
