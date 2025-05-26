@@ -6,4 +6,4 @@ related_posts: false
 show_on_news: true
 ---
 
-Dr.Dong will join FIU as a tenure-track assistant professor.
+The Picom lab has been lauched in Florida Internationl University at Miami, FL.
