@@ -23,8 +23,8 @@ nav: true
     </div>
     <div class="col-sm-4">
         <b>Wenqian Dong</b> <br>
-        Ph.D. <br><br>
-        Email: <a href="mailto:wenqian.dong@oregonstate.edu">wenqian.dong@oregonstate.edu</a> <br>
+        Assistant Professor (2022 Fall --) <br><br>
+        Email: <a href="mailto:wenqian.dong@oregonstate.edu">wenqian.dong@oregonstate.edu</a> <br> <br>
         <a href="https://scholar.google.com/citations?user=6qIVck4AAAAJ&hl=en">Google scholar</a>
         <a href="https://wdong5.github.io/" target="_blank">Personal Website</a>
     </div>
