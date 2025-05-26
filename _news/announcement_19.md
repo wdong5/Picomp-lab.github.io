@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2024-10-01
+date: 2023-8-01
 inline: true
 related_posts: false
-show_on_news: false
+show_on_news: True 
 
 ---
 
-Dr.Dong will serve as a TPC member of the IPDPS'25.
+A PhD student Haoyu Zheng joined Picom Lab.
