@@ -14,7 +14,7 @@ nav: true
 }
 </style>
 
-**PRINCIPLE INVESTIGATOR**
+**Principle Investigator**
 <br>
 
 <div class="row justify-content-md-center">
