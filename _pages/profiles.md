@@ -49,7 +49,7 @@ nav: true
         Email: gaosho@oregonstate.edu <br>
     </div>
     <div class="col-sm-5">
-        Shouwei Gao joined PiComp lab in fall 2023. His research interests include AI for science; Large-scale ML/AI models; Explainable AI.
+        Shouwei's research interests include AI for science, large-scale ML/AI models, and explainable AI.
     </div>  
 </div>  
 <br>
@@ -64,11 +64,18 @@ nav: true
         Email: zhenghaoy@oregonstate.edu <br>
     </div>
     <div class="col-sm-5">
-        His research interests include Disaggregated memory system; System optimization; MPI communication optimization.
+        Haoyu's research interests include system optimization on noval AI accelerators such as Cerebras .
     </div>  
 </div>  
 <br>
 <br clear="left"/>
+
+---
+
+**Undergraduate Students**
+
+- <a href="https://www.linkedin.com/in/jiyapradhan/" target="_blank">Jiya Pradhan</a>, Undergrad<br>
+- <a href="https://www.linkedin.com/in/wade-owojori/" target="_blank">Ayowade (Wade) Owojori</a>, Undergrad
 
 ---
 
