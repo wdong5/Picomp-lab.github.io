@@ -24,11 +24,12 @@ nav: true
     <div class="col-sm-4">
         <b>Wenqian Dong</b> <br>
         Ph.D. <br><br>
-        Email: wenqian.dong@oregonstate.edu <br>
+        Email: <a href="mailto:wenqian.dong@oregonstate.edu">wenqian.dong@oregonstate.edu</a> <br>
         <a href="https://scholar.google.com/citations?user=6qIVck4AAAAJ&hl=en">Google scholar</a>
+        <a href="https://wdong5.github.io/" target="_blank">Personal Website</a>
     </div>
     <div class="col-sm-5">
-       Wenqian Dong is an assistant professor in the School of EECS at <a href="https://engineering.oregonstate.edu/EECS" style="color:#538480;"> Oregon State University </a>. She is the director of Picom Lab.
+       Wenqian Dong is an assistant professor in the School of EECS at <a href="https://engineering.oregonstate.edu/EECS" style="color:#538480;"> Oregon State University </a>. She is the director of Parallel Intelligent Computing (Picom) Lab.
     </div>  
 </div>  
 <br>
