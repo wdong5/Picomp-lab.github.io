@@ -46,7 +46,7 @@ nav: true
     <div class="col-sm-4">
         <b>Shouwei Gao</b> <br>
         Ph.D. student (2023 Fall --) <br>
-        Email: <a href="mailto:gaosho@oregonstate.edu">wenqian.dong@oregonstate.edu</a> <br> 
+        Email: <a href="mailto:gaosho@oregonstate.edu">gaosho@oregonstate.edu</a> <br> 
     </div>
     <div class="col-sm-5">
         Shouwei's research interests include AI for science, large-scale ML/AI models, and explainable AI.
@@ -61,7 +61,7 @@ nav: true
     <div class="col-sm-4">
         <b>Haoyu Zheng</b> <br>
         Ph.D. student (2023 Fall --) <br>
-        Email: <a href="mailto:zhenghaoy@oregonstate.edu">wenqian.dong@oregonstate.edu</a> <br> 
+        Email: <a href="mailto:zhenghaoy@oregonstate.edu">zhenghaoy@oregonstate.edu</a> <br> 
     </div>
     <div class="col-sm-5">
         Haoyu's research interests include system optimization on noval AI accelerators such as Cerebras .
