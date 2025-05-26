@@ -24,8 +24,8 @@ nav: true
     <div class="col-sm-4">
         <b>Wenqian Dong</b> <br>
         Assistant Professor (2022 Fall --) <br><br>
-        Email: <a href="mailto:wenqian.dong@oregonstate.edu">wenqian.dong@oregonstate.edu</a> <br> <br>
-        <a href="https://scholar.google.com/citations?user=6qIVck4AAAAJ&hl=en">Google scholar</a>
+        Email: <a href="mailto:wenqian.dong@oregonstate.edu">wenqian.dong@oregonstate.edu</a> <br> 
+        <a href="https://scholar.google.com/citations?user=6qIVck4AAAAJ&hl=en">Google scholar</a> <br>
         <a href="https://wdong5.github.io/" target="_blank">Personal Website</a>
     </div>
     <div class="col-sm-5">
@@ -46,7 +46,7 @@ nav: true
     <div class="col-sm-4">
         <b>Shouwei Gao</b> <br>
         Ph.D. student (2023 Fall --) <br>
-        Email: gaosho@oregonstate.edu <br>
+        Email: <a href="mailto:gaosho@oregonstate.edu">wenqian.dong@oregonstate.edu</a> <br> 
     </div>
     <div class="col-sm-5">
         Shouwei's research interests include AI for science, large-scale ML/AI models, and explainable AI.
@@ -61,7 +61,7 @@ nav: true
     <div class="col-sm-4">
         <b>Haoyu Zheng</b> <br>
         Ph.D. student (2023 Fall --) <br>
-        Email: zhenghaoy@oregonstate.edu <br>
+        Email: <a href="mailto:zhenghaoy@oregonstate.edu">wenqian.dong@oregonstate.edu</a> <br> 
     </div>
     <div class="col-sm-5">
         Haoyu's research interests include system optimization on noval AI accelerators such as Cerebras .
