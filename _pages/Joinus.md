@@ -51,5 +51,7 @@ Email your application to: [wenqian.dong@oregonstate.edu](mailto:wenqian.dong@or
 ### OSU PhD Application Portal
 
 Applicants must also apply through the official OSU Graduate School portal: [OSU Computer Science PhD Admissions](https://graduate.oregonstate.edu/programs/3070/computer-science-phd-meng-ms-minor#process)
+
 Current language requirement: TOEFL iBT (above 80) or IELTS (above 6.50).
-*Note:* Be sure to check the website for current deadlines and application procedures.
+
+***Note**:* Be sure to check the website for current deadlines and application procedures.
