@@ -74,8 +74,8 @@ nav: true
 
 **Undergraduate Students**
 
-- <a href="https://www.linkedin.com/in/jiyapradhan/" target="_blank">Jiya Pradhan</a>, Undergrad<br>
-- <a href="https://www.linkedin.com/in/wade-owojori/" target="_blank">Ayowade (Wade) Owojori</a>, Undergrad
+- <a href="https://www.linkedin.com/in/jiyapradhan/" target="_blank">Jiya Pradhan</a><br>
+- <a href="https://www.linkedin.com/in/wade-owojori/" target="_blank">Ayowade (Wade) Owojori</a>
 
 ---
 
