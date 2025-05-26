@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Join us/
+permalink: /Join-us/
 title: Join us
 nav: true
 nav_order: 6
@@ -8,39 +8,51 @@ nav_order: 6
 
 *We are currently seeking highly motivated PhD students and research interns to join our group at Oregon State University. Our research focuses on parallel and distributed systems, acceleration technologies, and deep learning infrastructure.*
 
-**Candidate Qualifications**
-<p>We welcome candidates who demonstrate the following:</p>
-  <ul>
-    <li>Programming experience in C/C++ or Python on Linux platforms</li>
-  </ul>
-  <p>Preferred skills in one of the followings:</p>
-  <ul>
-    <li>Background in computer systems or architecture, including CPU, GPUs (NVIDIA, AMD, Intel), and specialized AI accelerators</li>
-    <li>Experience with distributed deep learning frameworks (e.g., PyTorch, TensorFlow)</li>
-    <li>Familiarity with AI/ML algorithms or applications, such as large language models (LLMs) or AI for Science (AI4Science)</li>
-  </ul>
-  <p>Students with strong foundations in Computer Science, Artifical Intelligence, Electrical Engineering, Mathematics, or Physics are especially encouraged to apply.</p>
+## Candidate Qualifications
 
-**Funding and Support**
-<p>All admitted PhD students will be fully supported through research or teaching assistantships, which include:</p>
+We welcome candidates who demonstrate the following:
+
+<ul>
+  <li>Programming experience in C/C++ or Python on Linux platforms</li>
+</ul>
+
+Preferred skills in one of the following:
+
+<ul>
+  <li>Background in computer systems or architecture, including CPU, GPUs (NVIDIA, AMD, Intel), and specialized AI accelerators</li>
+  <li>Experience with distributed deep learning frameworks (e.g., PyTorch, TensorFlow)</li>
+  <li>Familiarity with AI/ML algorithms or applications, such as large language models (LLMs) or AI for Science (AI4Science)</li>
+</ul>
+
+Students with strong foundations in Computer Science, Artificial Intelligence, Electrical Engineering, Mathematics, or Physics are especially encouraged to apply.
+
+## Funding and Support
+
+All admitted PhD students will be fully supported through research or teaching assistantships, which include:
+
 <ul>
   <li>Full tuition and fee coverage</li>
   <li>Monthly stipend</li>
   <li>Health insurance</li>
 </ul>
 
-**How to apply**
- <p>Email your application to: <a href="mailto:wenqian.dong@oregonstate.edu">wenqian.dong@oregonstate.edu</a>, with title of "PhD applicant-[Jerry]-[Fall2026]" </p>
-  <ul>
-    <li>Detailed CV</li>
-    <li>Academic transcripts (all in your acedemic trajctory)</li>
-    <li>GRE and TOEFL/IELTS scores (if applicable)</li>
-    <li>Any other documents you'd like to include (e.g., publications, awards, even fun extras like pet photos or pictures of your cooking)</li>
-  </ul>
+## How to Apply
 
- 
- **OSU PhD Application Portal**
-  <p>Applicants must also apply through the official OSU Graduate School portal: <a href="https://graduate.oregonstate.edu/programs/3070/computer-science-phd-meng-ms-minor#process" target="_blank">
-    OSU Computer Science PhD Admissions</a></p>
-  <p>Current language requirement: TOEFL iBT (above 80) or IELTS (above 6.50).</p>  
-  *Note: Be sure to check the website for current deadlines and application procedures.*
+Email your application to: [wenqian.dong@oregonstate.edu](mailto:wenqian.dong@oregonstate.edu)  
+**Subject**: `PhD applicant-[YourName]-[Fall2026]`
+
+<ul>
+  <li>Detailed CV</li>
+  <li>Academic transcripts (all in your academic trajectory)</li>
+  <li>GRE and TOEFL/IELTS scores (if applicable)</li>
+  <li>Any other documents you'd like to include (e.g., publications, awards, even fun extras like pet photos or pictures of your cooking)</li>
+</ul>
+
+## OSU PhD Application Portal
+
+Applicants must also apply through the official OSU Graduate School portal:  
+[OSU Computer Science PhD Admissions](https://graduate.oregonstate.edu/programs/3070/computer-science-phd-meng-ms-minor#process)
+
+Current language requirement: TOEFL iBT (above 80) or IELTS (above 6.50).
+
+> **Note:** Be sure to check the website for current deadlines and application procedures.
