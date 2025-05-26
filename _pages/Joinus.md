@@ -30,13 +30,14 @@ nav_order: 6
 </ul>
 
 **How to apply**
- <p>Email your application to: <a href="mailto:wenqian.dong@oregonstate.edu">wenqian.dong@oregonstate.edu</a>, with title of "PhD applicant-[Jerry]-[Fall2026]"
+ <p>Email your application to: <a href="mailto:wenqian.dong@oregonstate.edu">wenqian.dong@oregonstate.edu</a>, with title of "PhD applicant-[Jerry]-[Fall2026]" </p>
   <ul>
     <li>Detailed CV</li>
     <li>Academic transcripts (all in your acedemic trajctory)</li>
     <li>GRE and TOEFL/IELTS scores (if applicable)</li>
     <li>Any other documents you'd like to include (e.g., publications, awards, even fun extras like pet photos or pictures of your cooking)</li>
   </ul>
+
  
  **OSU PhD Application Portal**
   <p>Applicants must also apply through the official OSU Graduate School portal: <a href="https://graduate.oregonstate.edu/programs/3070/computer-science-phd-meng-ms-minor#process" target="_blank">
