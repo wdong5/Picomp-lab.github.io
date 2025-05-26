@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Join-us/
+permalink: /join us/
 title: Join us
 nav: true
 nav_order: 6
