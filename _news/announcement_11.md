@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-06-01
+date: 2025-04-20
 inline: true
 related_posts: false
-show_on_news: false
+show_on_news: true
 ---
 
-NSF CNS has awarded our application of the student travel grant for ICPP 2024 [(CNS:2422988)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2422988&HistoricalAwards=false). This will undoubtedly bring great joy to the students.
+NSF OAC has awarded our project "OAC Core: AI-Surrogate Enhanced Heterogeneous Acceleration for Large-Scale Power Grid Simulation (OAC:2505118)". Thanks, NSF!
