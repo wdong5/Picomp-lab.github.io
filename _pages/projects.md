@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /Projects/
-description: A growing collection of our research directions.
+description: A gallary of research projects
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Completed]
