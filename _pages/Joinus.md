@@ -38,8 +38,7 @@ nav_order: 6
     <li>Any other documents you'd like to include (e.g., publications, awards, even fun extras like pet photos or pictures of your cooking)</li>
   </ul>
  
-
-**OSU PhD Application Portal**
+ **OSU PhD Application Portal**
   <p>Applicants must also apply through the official OSU Graduate School portal: <a href="https://graduate.oregonstate.edu/programs/3070/computer-science-phd-meng-ms-minor#process" target="_blank">
     OSU Computer Science PhD Admissions</a></p>
   <p>Current language requirement: TOEFL iBT:80 or IELTS: 6.50.*</p>  
