@@ -2,64 +2,20 @@
 layout: page
 title: Research
 permalink: /Projects/
-description: A growing collection of our cool projects.
+description: A growing collection of our research directions.
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Completed]
 horizontal: true
 ---
 
-<!-- pages/projects.md -->
-<div class="Projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+**Exploring Next-Generation AI for Scientific Discovery**
+<p>
+SciML is undergoing a paradigm shift with the advent of foundation models like AlphaFold-3, PanGu-&#x3A3;, and ClimaX, which are trained on extensive datasets using large-scale self-supervision and can be adapted to various downstream tasks. These general-purpose subject matter experts (SMEs) demonstrate superior accuracy compared to traditional specialized DNN models. For example, the new AlphaFold3 model demonstrates substantially higher performance in all but one category compared to previous DNN methods specializing in specific tasks. This paradigm shift is also being undertaken in other domains, such as Prithvi and GraphCast in climate science; DeepMind's GNN and ESM-1b in biology; Planck, WMAP, and Euclid in cosmology; and ChemBERTa, MatBERT, and ANI-1 in chemistry.
+</p>
 
-{% else %}
+<figure>
+        <img src="scatter.png" alt="Trends in Foundation Models" />
+        <figcaption>Figure: Emerging Scientific Foundation Models over Time</figcaption>
+</figure>
 
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
