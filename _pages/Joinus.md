@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-*We are currently seeking highly motivated PhD students and research interns to join our group at Oregon State University. Our research focuses on parallel and distributed systems, acceleration technologies, and deep learning infrastructure.*
+_We are currently seeking highly motivated PhD students and research interns to join our group at Oregon State University. Our research focuses on parallel and distributed systems, acceleration technologies, and deep learning infrastructure._
 
 **Candidate Qualifications**
 
@@ -54,4 +54,4 @@ Applicants must also apply through the official OSU Graduate School portal: [OSU
 
 Current language requirement: TOEFL iBT (above 80) or IELTS (above 6.50).
 
-***Note**:* Be sure to check the website for current deadlines and application procedures.
+**\*Note**:\* Be sure to check the website for current deadlines and application procedures.

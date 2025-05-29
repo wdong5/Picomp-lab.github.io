@@ -6,4 +6,4 @@ related_posts: false
 show_on_news: true
 ---
 
-NSF OAC has awarded our project "CyberTraining: Pioneering a CI Workforce for Sustainable and Transdisciplinary Environmental Science Research [(OAC:2417849)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2417849&HistoricalAwards=false)". 
+NSF OAC has awarded our project "CyberTraining: Pioneering a CI Workforce for Sustainable and Transdisciplinary Environmental Science Research [(OAC:2417849)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2417849&HistoricalAwards=false)".
