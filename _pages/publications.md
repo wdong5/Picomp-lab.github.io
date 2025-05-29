@@ -11,12 +11,12 @@ nav_order: 5
 - **HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting**
 
   Shouwei Gao, Meiyan Gao, Yuepeng Li, Wenqian Dong
-  In the Association for the Advancement of Artificial Intelligence 2025 Spring Symposium Series [<a href="https://arxiv.org/abs/2309.07174">paper</a>] 
+  In the Association for the Advancement of Artificial Intelligence 2025 Spring Symposium Series [<a href="https://arxiv.org/abs/2309.07174">paper</a>]
 
 - **TimeX++: Learning Time-Series Explanations with Information Bottleneck.**
 
   Zichuan Liu, Tianchun Wang, Jimeng Shi, Xu Zheng, Zhuomin Chen, Lei Song, **Wenqian Dong**, Jayantha Obeysekera, Farhad Shirani, Dongsheng Luo
-  In the 41nd International Conference on Machine Learning (ICML'24) [<a href="https://dl.acm.org/doi/10.5555/3692070.3693367">paper</a>] 
+  In the 41nd International Conference on Machine Learning (ICML'24) [<a href="https://dl.acm.org/doi/10.5555/3692070.3693367">paper</a>]
 
 - **Auto-HPCnet: An Automatic Framework to Build Neural Network-based Surrogate Models for HPC Applications.**
 

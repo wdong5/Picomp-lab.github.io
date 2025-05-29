@@ -9,9 +9,9 @@ profile:
   image: eecs-students-kelley.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>CASE 3067 </p>
-     <p>110 SW Park Terrace</p>
-     <p>Corvarllis, Oregon</p>
+    <p>CASE 3067 </p>
+    <p>110 SW Park Terrace</p>
+    <p>Corvarllis, Oregon</p>
 
 social: false # includes social icons at the bottom of the page
 
