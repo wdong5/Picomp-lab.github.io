@@ -15,7 +15,7 @@ SciML is undergoing a paradigm shift with the advent of foundation models like A
 </p>
 
 <figure>
-        <img src="/assets/images/scatter.png" alt="Trends in Foundation Models" />
+        <img src="/assets/img/scatter.png" alt="Trends in Foundation Models" />
         <figcaption>_Emerging Scientific Foundation Models over Time_</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Projects:
 
 
 <figure>
-        <img src="/assets/images/scatter.png" alt="Trends in Foundation Models" />
+        <img src="/assets/img/scatter.png" alt="Trends in Foundation Models" />
         <figcaption>_Emerging Scientific Foundation Models over Time_</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Projects:
 
 
 <figure>
-        <img src="/assets/images/scatter.png" alt="Trends in Foundation Models" />
+        <img src="/assets/img/scatter.png" alt="Trends in Foundation Models" />
         <figcaption>_Emerging Scientific Foundation Models over Time_</figcaption>
 </figure>
 
