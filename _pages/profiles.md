@@ -87,7 +87,7 @@ nav: true
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
-        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/Chelsi.jpg' | relative_url }}" alt="" title="Changqing Li"/>
+        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/Changqing.jpg' | relative_url }}" alt="" title="Changqing Li"/>
     </div>
     <div class="col-sm-4">
         <b>Changqing Li</b> <br>
@@ -103,7 +103,7 @@ nav: true
 
 <div class="row justify-content-md-center">
     <div class="col-sm-3">
-        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/Changqing.jpg' | relative_url }}" alt="" title="Chelsi Chain "/>
+        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/Chelsi.jpg' | relative_url }}" alt="" title="Chelsi Chain "/>
     </div>
     <div class="col-sm-4">
         <b>Chelsi Jain</b> <br>
@@ -111,7 +111,7 @@ nav: true
         Email: <a href="mailto:jainc@oregonstate.edu">jainc@oregonstate.edu</a> <br> 
     </div>
     <div class="col-sm-5">
-        Chelsi's research interests include AI accelerators and system optimization for LLMs.
+        Chelsi's research interests include system optimization of RAG and AI agent.
     </div>  
 </div>  
 <br>

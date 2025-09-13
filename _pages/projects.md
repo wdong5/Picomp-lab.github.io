@@ -20,22 +20,25 @@ SciML is undergoing a paradigm shift with the advent of foundation models like A
         <figcaption>_Emerging Scientific Foundation Models over Time_</figcaption>
 </figure>
 
-Projects:
-
-**System Optimization for Foundational AI Models**
-
-<figure>
-        <img src="/assets/img/scatter.jpg" alt="Trends in Foundation Models" style="width: 80%; max-width: 800px;" />
-        <figcaption>_Emerging Scientific Foundation Models over Time_</figcaption>
-</figure>
-
-Projects:
-
-**System Optimization for Foundational AI Models**
+**Accelerating Large-Scale AI Models on AI Accelerators**
+<p>
+The acceleration of large-scale AI models is undergoing a paradigm shift with the rise of specialized hardware such as NVIDIA GPUs, Google TPUs, Cerebras wafer-scale processors, and FPGA-based systems. These accelerators are tailored to the computational needs of LLMs, GNNs, and CNNs, enabling massive parallelism, high-bandwidth memory access, and optimized data movement. Cerebras eliminates inter-chip communication bottlenecks with wafer-scale integration, achieving training throughput that was previously unattainable.
+</p>
 
 <figure>
-        <img src="/assets/img/scatter.jpg" alt="Trends in Foundation Models" style="width: 80%; max-width: 800px;" />
-        <figcaption>_Emerging Scientific Foundation Models over Time_</figcaption>
+        <img src="/assets/img/llama_inference_flops-1.jpg" alt="FLOPs comparison: Cerebras v.s. A100" style="width: 80%; max-width: 800px;" />
+        <figcaption>_Performance Comparsion (Between Nvidia A100 & Cerebras) for LLM Inference With Unstructured Sparsity _</figcaption>
 </figure>
 
-Projects:
+
+**System Optimization for Large Scale AI Models**
+
+<p>Large-scale AI models such as LLMs, GNNs, and CNNs are driving a fundamental shift in how systems are designed and optimized. As these models grow to billions of parameters and are trained on increasingly massive datasets, traditional training pipelines become insufficient. Meeting these demands requires advances in distributed training strategies, hardware-aware scheduling, and scalable parallelization. Techniques like mixed-precision computation, pipeline parallelism, and memory-efficient execution are now central to achieving state-of-the-art performance while controlling cost and energy use.
+</p>
+
+<figure>
+        <img src="/assets/img/KVcache.jpg" alt="Trends in Foundation Models" style="width: 80%; max-width: 800px;" />
+        <figcaption>_Memory Bottleneck in Long Context LLM Learning and Inference_</figcaption>
+</figure>
+
+

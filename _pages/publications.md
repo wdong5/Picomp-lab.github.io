@@ -8,10 +8,16 @@ nav_order: 5
 
 <!-- ## 2023 -->
 
+
+- **Enabling Unstructured Sparse Fine-Tuning and Inference for Foundation Models on Wafer-Scale Engine**
+
+  Haoyu Zheng, Yifan Zeng, Linghao Song, Murali Emani, **Wenqian Dong**
+  In the ExHetAI25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25 workshop)  [<a href="">paper</a>]
+
 - **HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting**
 
   Shouwei Gao, Meiyan Gao, Yuepeng Li, Wenqian Dong
-  In the Association for the Advancement of Artificial Intelligence 2025 Spring Symposium Series [<a href="https://arxiv.org/abs/2309.07174">paper</a>]
+  In the Association for the Advancement of Artificial Intelligence 2025 Spring Symposium Series [<a href="https://arxiv.org/abs/2309.07174">paper</a>] [<a href="https://github.com/Picomp-lab/Hurricast/blob/main/HurriCast%20Slides.pdf">slides</a>] [<a href="https://github.com/Picomp-lab/Hurricast?tab=readme-ov-file">code</a>]
 
 - **TimeX++: Learning Time-Series Explanations with Information Bottleneck.**
 
