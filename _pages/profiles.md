@@ -60,7 +60,7 @@ nav: true
     </div>
     <div class="col-sm-4">
         <b>Haoyu Zheng</b> <br>
-        Ph.D. student (2023 Fall --) <br>
+        Ph.D. student (Fall 2023 --) <br>
         Email: <a href="mailto:zhenghaoy@oregonstate.edu">zhenghaoy@oregonstate.edu</a> <br> 
     </div>
     <div class="col-sm-5">
@@ -69,6 +69,55 @@ nav: true
 </div>  
 <br>
 <br clear="left"/>
+
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/Arunavo.jpg' | relative_url }}" alt="" title="Arunavo Dey"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Arunavo Dey</b> <br>
+        Ph.D. student (Fall 2023 --) <br>
+        Email: <a href="mailto:deyaru@oregonstate.edu">deyaru@oregonstate.edu</a> <br> 
+    </div>
+    <div class="col-sm-5">
+        Arunavo's research interests include high-performance computing, and system optimization for agentic AI workflow.
+    </div>  
+</div>  
+<br>
+
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/Chelsi.jpg' | relative_url }}" alt="" title="Changqing Li"/>
+    </div>
+    <div class="col-sm-4">
+        <b>Changqing Li</b> <br>
+        Ph.D. student (2025 Fall --) <br>
+        Email: <a href="mailto:lic24@oregonstate.edu">lic24@oregonstate.edu</a> <br> 
+    </div>
+    <div class="col-sm-5">
+        Changqing's research interests include AI accelerators and system optimization for LLMs.
+    </div>  
+</div>  
+<br>
+<br clear="left"/>
+
+<div class="row justify-content-md-center">
+    <div class="col-sm-3">
+        <img class="img-fluid rounded z-depth-1 profile-img" src="{{ '/assets/img/Changqing.jpg' | relative_url }}" alt="" title="Chelsi Chain "/>
+    </div>
+    <div class="col-sm-4">
+        <b>Chelsi Jain</b> <br>
+        Master student (Summer 2025 --) <br>
+        Email: <a href="mailto:jainc@oregonstate.edu">jainc@oregonstate.edu</a> <br> 
+    </div>
+    <div class="col-sm-5">
+        Chelsi's research interests include AI accelerators and system optimization for LLMs.
+    </div>  
+</div>  
+<br>
+<br clear="left"/>
+
+
 
 ---
 
