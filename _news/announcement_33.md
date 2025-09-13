@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-04-01
+date: 2025-09-12
 inline: true
-related_posts: false
+related_posts: true
 show_on_news: true
 ---
 
-A paper "Auto-HPCnet: An Automatic Framework to Build Neural Network-based Surrogate Models for HPC Applications" is accepted in HPDC'23.
+A paper "Phoenix: Enabling Unstructured Sparse Fine-Tuning and Inference for Foundation Models on Wafer-Scale Engine" is accepted in SC'25 ExHetAI workshop.

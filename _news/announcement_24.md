@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-12-01
+date: 2023-04-01
 inline: true
 related_posts: false
-show_on_news: false
+show_on_news: true
 ---
 
-Our proposal "An AI/ML Collaborative for Southeast Florida Coastal Environmental Data and Modeling Center (IIS-2331908)" has been funded by the NSF. A big thank you to NSF for their support!
+A paper "Auto-HPCnet: An Automatic Framework to Build Neural Network-based Surrogate Models for HPC Applications" is accepted in HPDC'23.

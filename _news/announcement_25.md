@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-12-01
+date: 2025-09-16
 inline: true
-related_posts: false
-show_on_news: false
+related_posts: true
+show_on_news: true
 ---
 
-Dr.Dong will serve as a TPC member of SC'24: The International Conference for High-Performance Computing, Networking, Storage, and Analysis, Area of Programming Frameworks, in Atlanta, GA, USA.
+Two Ph.D. students, Arunavo Dey and Changqing Li, are joining us this fall!
